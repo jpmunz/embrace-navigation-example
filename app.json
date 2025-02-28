@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "navigationExample",
+    "slug": "navigationExample",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "io.embrace.navigationexample"
+    },
+    "android": {
+      "package": "io.embrace.navigationexample"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
