@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@embrace-io/react-native": "6.0.0",
-    "@embrace-io/react-native-navigation": "6.0.0",
+    "@embrace-io/react-native-navigation": "file:./embrace-io-react-native-navigation-6.0.0.tgz",
     "@embrace-io/react-native-tracer-provider": "6.0.0",
     "@expo/vector-icons": "^14.0.0",
     "@react-navigation/bottom-tabs": "^6.0.2",
